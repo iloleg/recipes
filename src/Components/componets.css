@@ -1,0 +1,13 @@
+.meal_list_image {
+    border-radius: 50%;
+}
+.meal{
+   text-align: center;
+    display: flex;
+    padding: 15px;
+    border: 2px solid teal;
+    margin-top: 15px;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+}
